@@ -31,7 +31,7 @@ public class Main {
             scanner.nextLine(); //newline fix
 
             //average grade computation
-            averageGrade[i] = (englishGrade[i] + mathGrade[i] + scienceGrade[i]) / 3;
+            averageGrade[i] = (englishGrade[i] + mathGrade[i] + scienceGrade[i]) / 3; //PEMDAS rule in mathematics
         }
         System.out.println();
 
